@@ -1,4 +1,4 @@
-Televideo Space Invaders drop-in PCB with Teensy 2.0++ compatibility designed by Gvalch'ca for NeonKight.
+Televideo Space Invaders drop-in PCB with Teensy 2.0++ compatibility designed by Gvalch'ca for NeonKnight.
 ======
 
 Keyboard Maintainer: [Gvalchca](https://github.com/Gvalch-ca)  
